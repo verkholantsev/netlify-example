@@ -1,0 +1,12 @@
+.blog-post {
+}
+
+.blog-post__header {
+    font-size: 1.5rem;
+}
+
+.blog-post__time {
+    color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    margin-bottom: 1rem;
+}
